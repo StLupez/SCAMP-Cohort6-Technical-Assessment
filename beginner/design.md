@@ -10,3 +10,6 @@
 - Submit the URL to access the figma file on the application form here: [Cohort 6 Application](http://shecodeafrica.org/events) 
 
 *Good luck!*
+
+
+[my shecode task] (https://www.figma.com/file/2wemrgHK4TsSbHLp8nf85p/Shecode_Task?node-id=7%3A56)
